@@ -397,7 +397,7 @@ Question: ${questionText}`
           <p className="text-gray-600 text-center text-sm mb-4">Follow me for more cloud security tips & tricks</p>
           <div className="flex justify-center gap-4 flex-wrap">
             
-              href="https://www.youtube.com/@subtle-techie"
+          href="https://www.youtube.com/@subtle-techie"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center gap-2 px-4 py-2 bg-red-600 text-white rounded-lg hover:bg-red-700 transition-colors"
@@ -425,8 +425,6 @@ Question: ${questionText}`
               </svg>
               TikTok
             </a>
-          </div>
-        </div>
 
         <div className="text-center text-blue-100 text-sm">
           <p className="mb-2">Made with ☁️ by SubtleTechie - Your friendly cloud security guy!</p>
